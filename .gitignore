@@ -1,0 +1,15 @@
+# Dependencias y librerías
+node_modules/
+.gradle/
+build/
+dist/
+.output/
+
+# Logs y temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos locales
+.env
+.env.local

@@ -1,0 +1,226 @@
+{
+    "wishlist":  [
+                     {
+                         "id":  1,
+                         "title":  "Cena Romantica",
+                         "category":  "Restaurante",
+                         "description":  "Pasta fresca y vino tinto en el centro.",
+                         "image":  "🍝"
+                     },
+                     {
+                         "id":  2,
+                         "title":  "Escapada a la Playa",
+                         "category":  "Viaje",
+                         "description":  "Fin de semana viendo el atardecer en la arena.",
+                         "image":  "🌊"
+                     },
+                     {
+                         "id":  3,
+                         "title":  "Paseo por el Parque",
+                         "category":  "Paseo",
+                         "description":  "Tarde tranquila caminando y tomando helado.",
+                         "image":  "🌸"
+                     },
+                     {
+                         "id":  1794189281186,
+                         "title":  "Tarde de beshuqueos.....",
+                         "description":  "Consiste en una tarde de puros besitos juntitos dandonos mucho amor, si usted acepta se lleva de premio besos de por vida....... pienselo ",
+                         "category":  "Paseo",
+                         "image":  "🌸",
+                         "addedBy":  "Mirella Garcia"
+                     }
+                 ],
+    "freeDays":  [
+                     {
+                         "user":  "Mirella Garcia",
+                         "date":  "2026-11-13"
+                     },
+                     {
+                         "user":  "Michael Milla",
+                         "date":  "2026-11-13"
+                     }
+                 ],
+    "proposals":  [
+                      {
+                          "id":  1794174832548,
+                          "status":  "accepted",
+                          "sender":  "Mirella Garcia",
+                          "receiver":  "Michael Milla",
+                          "place":  "Escapada a la Playa",
+                          "date":  "2026-11-15",
+                          "message":  "Aceptarias ir a san isidro conmigo al mall y luego a la playa a vivir momentos hermosos"
+                      },
+                      {
+                          "id":  1794177375865,
+                          "status":  "accepted",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "cena en madan tusan",
+                          "date":  "2026-11-19",
+                          "message":  "TU Y YO JUNTOS"
+                      },
+                      {
+                          "id":  1794177862557,
+                          "status":  "accepted",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "cena ",
+                          "date":  "2026-11-04",
+                          "message":  "jdsja"
+                      },
+                      {
+                          "id":  1794177889145,
+                          "status":  "rejected",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "famkmfda",
+                          "date":  "2026-11-25",
+                          "message":  "dsadadsa"
+                      },
+                      {
+                          "id":  1794178216968,
+                          "status":  "accepted",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "dsajjsdj",
+                          "date":  "2026-11-11",
+                          "message":  "dsasd"
+                      },
+                      {
+                          "id":  1794187921301,
+                          "status":  "accepted",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "Escapada a la Playa",
+                          "date":  "2026-11-14",
+                          "message":  "Señorita Mirella Nicole Garcia Salcedo le escribo esta carta para decirle que es una chica muy hermosa y de la cual me enamore desde el primer día, este día sábado desearía que me haga el honor de acompañarme a la playa para ver un atardecer juntos y sentir la brisa del mar acompañado de la mejor persona que puede existir para mí. \n\nAtentamente.\nMichael Milla (Tu Novio)"
+                      },
+                      {
+                          "id":  1794189325734,
+                          "status":  "accepted",
+                          "sender":  "Mirella Garcia",
+                          "receiver":  "Michael Milla",
+                          "place":  "Tarde de beshuqueos este martes",
+                          "date":  "2026-11-13",
+                          "message":  "Consiste en una tarde de puros besitos juntitos dandonos mucho amor, si usted acepta se lleva de premio besos de por vida....... pienselo"
+                      },
+                      {
+                          "id":  1794189616342,
+                          "status":  "accepted",
+                          "sender":  "Michael Milla",
+                          "receiver":  "Mirella Garcia",
+                          "place":  "Escapada a la Playa",
+                          "date":  "2026-11-14",
+                          "message":  "\"Señorita Mirella Nicole Garcia Salcedo le escribo esta carta para decirle que es una chica muy hermosa y de la cual me enamore desde el primer día, este día sábado desearía que me haga el honor de acompañarme a la playa para ver un atardecer juntos y sentir la brisa del mar acompañado de la mejor persona que puede existir para mí. Atentamente. Michael Milla (Tu Novio)\""
+                      },
+                      {
+                          "id":  1794192302737,
+                          "status":  "accepted",
+                          "sender":  "Mirella Garcia",
+                          "receiver":  "Michael Milla",
+                          "place":  "Tarde videojuegos ",
+                          "date":  "2026-11-10",
+                          "message":  "juguemos juntos"
+                      }
+                  ],
+    "matches":  [
+                    {
+                        "id":  1794188866620,
+                        "place":  "Escapada a la Playa",
+                        "date":  "2026-11-14",
+                        "message":  "Señorita Mirella Nicole Garcia Salcedo le escribo esta carta para decirle que es una chica muy hermosa y de la cual me enamore desde el primer día, este día sábado desearía que me haga el honor de acompañarme a la playa para ver un atardecer juntos y sentir la brisa del mar acompañado de la mejor persona que puede existir para mí. \n\nAtentamente.\nMichael Milla (Tu Novio)",
+                        "sender":  "Michael Milla",
+                        "receiver":  "Mirella Garcia"
+                    }
+                ],
+    "users":  [
+                  {
+                      "username":  "mmilla",
+                      "name":  "Michael Milla",
+                      "password":  "1303_2024"
+                  },
+                  {
+                      "username":  "mgarcia",
+                      "name":  "Mirella Garcia",
+                      "password":  "1303_2024"
+                  }
+              ],
+    "nicknames":  {
+                      "Michael Milla":  "Michael Milla",
+                      "Mirella Garcia":  "Mirella Garcia"
+                  },
+    "notes":  [
+                  {
+                      "id":  1794191351125,
+                      "text":  "Pokoo precioso hermoso eres mi mayor felicidad en esta vida has venido a completar mi vida y darle un nuevo propósito.............teamo mi niño",
+                      "author":  "Mi Vida",
+                      "color":  "#ffd6e0",
+                      "createdAt":  "2026-11-09T02:29:11.125Z"
+                  },
+                  {
+                      "id":  1794191215937,
+                      "text":  "amor de mi vida",
+                      "author":  "mi pokoo",
+                      "color":  "#d8f3dc",
+                      "createdAt":  "2026-11-09T02:26:55.937Z"
+                  }
+              ],
+    "chat":  [
+                 {
+                     "id":  1794256362458,
+                     "author":  "Michael Milla",
+                     "text":  "Hola amor mio como estas",
+                     "createdAt":  "2026-11-09T20:32:42.458Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794256456982,
+                     "author":  "Mirella Garcia",
+                     "text":  "🥺",
+                     "createdAt":  "2026-11-09T20:34:16.982Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794256457155,
+                     "author":  "Mirella Garcia",
+                     "text":  "🥺",
+                     "createdAt":  "2026-11-09T20:34:17.154Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794256466341,
+                     "author":  "Mirella Garcia",
+                     "text":  "Awww miamooor",
+                     "createdAt":  "2026-11-09T20:34:26.341Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794256481193,
+                     "author":  "Mirella Garcia",
+                     "text":  "🥺",
+                     "createdAt":  "2026-11-09T20:34:41.193Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794257286986,
+                     "author":  "Michael Milla",
+                     "text":  "Te amo mucho y espero estes bien y te gusta nuestro propio chat juntos",
+                     "createdAt":  "2026-11-09T20:48:06.986Z",
+                     "day":  "2026-11-09"
+                 },
+                 {
+                     "id":  1794257289567,
+                     "author":  "Michael Milla",
+                     "text":  "❤️",
+                     "createdAt":  "2026-11-09T20:48:09.567Z",
+                     "day":  "2026-11-09"
+                 }
+             ],
+    "pushSubs":  {
+
+                 },
+    "vapid":  {
+                  "publicKey":  "BFb5UJEMaesv9bGn2nV_TNnmPzLfpjdr2MeWyivk3bHUSonC7qrjylwt9vNw8SHgsDW1bxWdM9NE-hB_2P18III",
+                  "privateKey":  "IeVeySDRDcHRdEe5DvREAfl_qjFY5Z4bMHe3CA15QiQ"
+              }
+}

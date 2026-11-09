@@ -1,0 +1,47 @@
+{
+  "packageId": "com.nuestrosmomentos.app",
+  "host": "nuestros-momentos.nuestros-momentos-cloudflare.workers.dev",
+  "name": "Nuestros Momentos",
+  "launcherName": "Momentos",
+  "display": "standalone",
+  "themeColor": "#B5838D",
+  "themeColorDark": "#8C5A65",
+  "navigationColor": "#8C5A65",
+  "navigationColorDark": "#8C5A65",
+  "navigationDividerColor": "#B5838D",
+  "navigationDividerColorDark": "#B5838D",
+  "backgroundColor": "#FFF0F3",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://nuestros-momentos.nuestros-momentos-cloudflare.workers.dev/icon-512.png",
+  "maskableIconUrl": "https://nuestros-momentos.nuestros-momentos-cloudflare.workers.dev/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "nuestros"
+  },
+  "appVersionName": null,
+  "appVersionCode": 4,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://nuestros-momentos.nuestros-momentos-cloudflare.workers.dev/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "minSdkVersion": 24,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "displayOverride": [],
+  "appVersion": null
+}

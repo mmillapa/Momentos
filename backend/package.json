@@ -1,0 +1,20 @@
+{
+  "name": "nuestros-momentos-backend",
+  "version": "1.0.0",
+  "description": "Backend para la app de citas en pareja Nuestros Momentos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.26.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "web-push": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

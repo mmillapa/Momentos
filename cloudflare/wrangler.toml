@@ -1,0 +1,14 @@
+name = "nuestros-momentos"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+# Archivos estáticos (la web). Las rutas /api/* siempre pasan por el Worker.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*", "/.well-known/*"]
+
+# Almacenamiento de los datos
+[[kv_namespaces]]
+binding = "DATA"
+id = "5a4fe717fd994216a49706149dc7c40c"

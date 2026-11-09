@@ -1,0 +1,15 @@
+{
+  "name": "Momentos",
+  "short_name": "Momentos",
+  "description": "Citas y momentos en pareja 💕",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff0f3",
+  "theme_color": "#b5838d",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
